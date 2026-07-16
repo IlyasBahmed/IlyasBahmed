@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,100:16213e&amp;height=200&amp;section=header&amp;text=Ilyas%20Bahmed&amp;fontSize=55&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Full%20Stack%20Developer%20%7C%20Cybersécurité%20%26%20Cloud&amp;descAlignY=55&amp;descSize=18&amp;animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2500&amp;pause=800&amp;color=2E9EF7&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=DevSecOps+%7C+Cloud+%7C+Cybers%C3%A9curit%C3%A9;Laravel+%7C+React+%7C+Docker+%7C+Terraform;Passionn%C3%A9+par+l'automatisation+et+la+s%C3%A9curit%C3%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2500&amp;pause=800&amp;color=2E9EF7&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=DevSecOps+%7C+Cloud+%7C+Cybers%C3%A9curit%C3%A9;Laravel+%7C+React+%7C+Docker+%7C+Terraform;Passionn%C3%A9+par+l%27automatisation+et+la+s%C3%A9curit%C3%A9" alt="Typing SVG" />
 
 <br/>
 
