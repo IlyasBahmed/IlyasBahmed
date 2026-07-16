@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2E9EF7&height=200&section=header&text=Ilyas%20Bahmed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20%26%20Cloud&descAlignY=60&descColor=ffffff)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2E9EF7&height=200&section=header&text=Ilyas+Bahmed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack+Developer+%7C+Cybersecurity+%26+Cloud&descAlignY=60&descColor=ffffff)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Securing+web+platforms%2C+one+commit+at+a+time;Laravel+%7C+React+%7C+Docker+%7C+Terraform;DevSecOps+%7C+Cloud+%7C+Automation" alt="Typing SVG" />
 
