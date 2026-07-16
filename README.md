@@ -43,7 +43,7 @@ fun_fact    : "Passionné par l'automatisation et la transformation digitale"
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&amp;logo=gnu-bash&amp;logoColor=white" />
 </p>
 
-**Frameworks & Web**
+
 <p>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&amp;logo=laravel&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" />
@@ -76,7 +76,7 @@ fun_fact    : "Passionné par l'automatisation et la transformation digitale"
 <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&amp;logo=gitlab&amp;logoColor=white" />
 </p>
 
-**Sécurité**
+
 <p>
 <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&amp;logo=owasp&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&amp;logo=aqua&amp;logoColor=white" />
@@ -85,7 +85,7 @@ fun_fact    : "Passionné par l'automatisation et la transformation digitale"
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;logo=cloudflare&amp;logoColor=white" />
 </p>
 
-**Outils**
+
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" />
@@ -100,7 +100,7 @@ fun_fact    : "Passionné par l'automatisation et la transformation digitale"
 
 <br/>
 
-### ◆ Expériences Récentes
+
 
 **🔒 Stagiaire Cybersécurité & Cloud — Lepixo** *(2025 – 2026)*
 Conception d'un système intelligent de sécurité et monitoring pour applications WordPress : dashboard multi-rôles, plugin WordPress (WAF, anti brute-force, scan de fichiers), analyse de logs par IA (API Groq), pipeline CI/CD DevSecOps complet (GitHub Actions, GitLeaks, Trivy, OWASP ZAP), infrastructure Azure via Terraform & Ansible.
