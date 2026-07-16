@@ -2,9 +2,9 @@
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2E9EF7&height=200&section=header&text=Ilyas%20Bahmed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20%26%20Cloud&descAlignY=60&descColor=ffffff)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1000&amp;color=2E9EF7&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=Securing+web+platforms%2C+one+commit+at+a+time;Laravel+%7C+React+%7C+Docker+%7C+Terraform;DevSecOps+%7C+Cloud+%7C+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Securing+web+platforms%2C+one+commit+at+a+time;Laravel+%7C+React+%7C+Docker+%7C+Terraform;DevSecOps+%7C+Cloud+%7C+Automation" alt="Typing SVG" />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ILYASBAHMED.ILYASBAHMED)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=IlyasBahmed.IlyasBahmed)
 
 </div>
 
@@ -132,6 +132,8 @@ status   : 🟢 Open to internships / positions in DevOps, Cloud & Cybersecurity
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IlyasBahmed&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=IlyasBahmed&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlyasBahmed&theme=tokyonight)
 
